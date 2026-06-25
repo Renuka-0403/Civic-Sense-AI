@@ -133,14 +133,12 @@ The AI identifies public safety concerns, assesses severity, identifies the resp
 
 ## Demo Videos
 
-### Garbage Accumulation Demonstration
-[View Demo Video](PASTE_GARBAGE_VIDEO_LINK_HERE)
+The repository includes the following demonstration videos:
 
-### Broken Streetlight Demonstration
-[View Demo Video](PASTE_STREETLIGHT_VIDEO_LINK_HERE)
+1. Garbage Accumulation - IBM Granite demo video.mp4
+2. Broken Streetlight - IBM Granite demo video.mp4
 
-These videos demonstrate how IBM Granite Models were used to analyze civic issues and generate structured outputs.
-
+These videos demonstrate the use of IBM Granite Models for civic issue analysis, classification, authority identification, and complaint generation.
 ---
 
 ## Repository Contents
