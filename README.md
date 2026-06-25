@@ -135,7 +135,7 @@ The AI identifies public safety concerns, assesses severity, identifies the resp
 
 - [Garbage Accumulation Demo](./Garbage%20Accumulation%20-%20IBM%20Granite%20demo%20video.mp4)
 
-- [Broken Street light Demo](./Broken%20Streetlight%20%20-%20IBM%20Granite%20demo%20video.mp4)
+- [Broken Street Light Demo](./Broken%20Street%20Light%20-%20IBM%20Granite%20demo%20video.mp4)
 
 These videos demonstrate the use of IBM Granite Models for civic issue analysis, classification, authority identification, and complaint generation.
 ---
